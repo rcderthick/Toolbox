@@ -1,0 +1,34 @@
+
+Electrical:
+1. NFPA 79 Table 12.5.1 Conductor Ampacity Lookup
+2. Conductor Sizing Guidelines:
+---125% of full load current minimum
+3. Feeder calculation tool
+4.  motor full-load current ratings listed in Tables 430.247, 430.248, and 430.250 of the NEC
+   are used to determine
+
+   The table used depends on the type of motor being used.
+   • Table 430.247 direct current motors
+   • Table 430.248 single-phase motors
+   • Table 430.250 3-phase motors
+5.  Heat Calc
+6. Transformer sizing
+7. SCCR1 - Default SCCR Ratings (UL 508A Table SB4.1)
+8. HMI and shelf heights
+9. Panduit fill calculator
+10 Conduit size, De-rate each wires ampacity based on table B.310.11 of NFPA 70.
+11. Resistor color codes
+12. Voltage Drop
+
+
+
+
+
+
+Math:
+1. Interpolation
+2. C/F conversion
+---More complete unit conversion?
+3. ASCII Table
+
+
