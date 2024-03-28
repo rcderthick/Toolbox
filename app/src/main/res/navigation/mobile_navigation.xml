@@ -13,9 +13,9 @@
 
     <fragment
         android:id="@+id/nav_gallery"
-        android:name="com.example.toolbox.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
+        android:name="com.example.toolbox.ui.gallery.ReferenceFragment"
+        android:label="@string/menu_reference"
+        tools:layout="@layout/fragment_reference" />
 
     <fragment
         android:id="@+id/nav_slideshow"

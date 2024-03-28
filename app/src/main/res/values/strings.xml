@@ -8,7 +8,7 @@
     <string name="action_settings">Settings</string>
 
     <string name="menu_engineering">Engineering</string>
-    <string name="menu_gallery">Gallery</string>
+    <string name="menu_reference">Reference</string>
     <string name="menu_slideshow">Slideshow</string>
     <string name="title_activity_reference_ascii">ActivityReferenceASCII</string>
     <!-- Strings used for fragments for navigation -->
