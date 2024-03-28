@@ -12,4 +12,7 @@
     <color name="gray">#FF333333</color>
     <color name="dark_blue">#FF0B0D7B</color>
     <color name="red">#FFFF0000</color>
+
+    <color name="blueBlack">#FF111F28</color>
+    <color name="tanAccent">#FFE3CDB3</color>
 </resources>
